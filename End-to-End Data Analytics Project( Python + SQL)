@@ -1,0 +1,3 @@
+Basically it is kind of a ETL project where we extracted data from kagal API. 
+Then we did data cleaning transformation in Python (Jupyter Notebook) and then connected and loaded into SQL Server(MYSQL WORKBENCH). 
+After loading the data, we did some data analysis by answering some interesting questions.
